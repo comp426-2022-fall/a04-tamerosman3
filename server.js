@@ -1,6 +1,6 @@
 import minimist from "minimist"
 import express from "express"
-import rolls from "../lib/roll.js" 
+import rolls from "./lib/roll.js" 
 
 let port = 5000;
 
